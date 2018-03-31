@@ -1,2 +1,2 @@
 # eclat
-usage : python eclat.py <minimum support> <inputfile> <outputfile>
+usage : python eclat.py (minimum support) (inputfile) (outputfile)
